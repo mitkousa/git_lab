@@ -2,7 +2,7 @@ const helloWorld = (name = "World") => {
   return `Hello ${name}!`;
 }
 
-const helloUniverse = (name = "World") => {
+const helloEdinburgh = (name = "World") => {
   return `Hello ${name}!`;
 }
 
